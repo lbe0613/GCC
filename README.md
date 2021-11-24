@@ -2,7 +2,7 @@
 Source code of EMNLP 2021 Findings paper "[Glyph Enhanced Chinese Character Pre-Training for Lexical Sememe Prediction](https://aclanthology.org/2021.findings-emnlp.386)".
 
 ## Requirements
-* `python`: 3.7.5
+* `python`: 3.7.6
 * `pytorch`: 1.5.0
 * `transformers`: 3.5.0
 
